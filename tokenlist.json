@@ -1,0 +1,15 @@
+{
+  "name": "Polcoin Token List",
+  "version": "1.0.0",
+  "logoURI": "https://gold-payable-tiger-208.mypinata.cloud/ipfs/bafkreidnwxkmuioc4zkydyntojaw35ub4w3byzqoihgvamwm7k7nl4wouu",  // Polcoin logosu
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x93450687DDE19e1dfBED14558088739EA64dB11C",
+      "symbol": "PLC",
+      "name": "Polcoin",
+      "decimals": 8,
+      "logoURI": "https://gold-payable-tiger-208.mypinata.cloud/ipfs/bafkreidnwxkmuioc4zkydyntojaw35ub4w3byzqoihgvamwm7k7nl4wouu"  // Polcoin logosu
+    }
+  ]
+}
